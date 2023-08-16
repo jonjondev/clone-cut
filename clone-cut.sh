@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Clone down the repo
-git clone https://github.com/J-Mo63/aitp-labs.git
+git clone https://github.com/jonjondev/aitp-labs.git
 
 # Remove the old files
 rm -r -f ./IT207
